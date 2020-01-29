@@ -1,0 +1,33 @@
+*{
+    border: none;
+    padding: 0px;
+}
+.button{
+    font-size: 1.4em;
+    border: none;
+    background-color: lightsteelblue;
+    padding: 0px;
+}
+
+
+
+.double{
+    grid-column: span 2;
+}
+
+.triple{
+    grid-column: span 3;
+}
+
+.operation{
+    background-color: limegreen;
+    color: #fff;
+    border: none;
+    padding: 0px;
+}
+
+.operation:active{
+    background-color: lime;
+
+}
+
